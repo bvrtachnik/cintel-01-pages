@@ -14,6 +14,8 @@ Images look like links except with an exclamation directly in front
 
 ![My Pet Image](Gene.jpg "This is my cat, Gene")
 
+This is my cat, Gene
+
 ## Reminders
 
 Use a dash space for unordered lists
