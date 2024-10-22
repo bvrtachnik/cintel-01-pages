@@ -12,7 +12,7 @@ Images look like links except with an exclamation directly in front
 
 ![My Shiny Image](https://raw.githubusercontent.com/denisecase/pyshiny-penguins-dashboard-express/main/images/LocalAppRunning.JPG)
 
-![My Pet Image](Gene.jpg)
+![My Pet Image](Gene.jpg "This is my cat, Gene")
 
 ## Reminders
 
