@@ -4,24 +4,24 @@ My first website using Markdown and GitHub Pages.
 
 ## Links (Two hashes is a second level heading)
 
-Here's a clickable link: [My favorite AI assistant](https://chat.openai.com/)
+Here's a clickable link: [ChatGPT](https://chat.openai.com/)
 
 ## Images
 
-Images look like links except with an exclamation directly in front
+Here is a PyShiny example
 
 ![My Shiny Image](https://raw.githubusercontent.com/denisecase/pyshiny-penguins-dashboard-express/main/images/LocalAppRunning.JPG)
 
-![My Pet Image](Gene.jpg "This is my cat, Gene")
-
 This is my cat, Gene
 
-## Reminders
+![My Pet Image](Gene.jpg "This is my cat, Gene")
 
-Use a dash space for unordered lists
 
-- Spaces matter
+## My Favorite Sports Team
 
-- Spelling matters
 
-- Capitalization matters
+- Atlanta United
+
+- Manchester United
+
+- Cleveland Browns, unfortunately
